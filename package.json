@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@commitlint/cli": "^4.3.0",
+    "@commitlint/config-angular": "^4.3.0",
     "@kaltura-ng/dev-workspace": "^2.2.0"
   }
 }
